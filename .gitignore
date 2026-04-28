@@ -1,0 +1,25 @@
+```
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Compiled Python files
+*.pyc
+__pycache__/
+localpycs/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Editors
+.vscode/
+.idea/
+
+# Environment
+.env
+.env.local
+*.env.*
+```
